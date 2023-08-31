@@ -84,7 +84,7 @@ redirect_from:
 
 [22] A. Yang, Y. Wang, F. Yang, D. Wang, Y. Zi\*, K. L. Tsui, B. Zhang (2019). A comprehensive investigation of lithium-ion battery degradation performance at different discharge rates.  Journal of Power Sources, 443, 227108. \
 
-[23] D. Wang, Y. Zhao\*, F. Yang, K. L. Tsui (2017). Nonlinear-Drifted Brownian motion with multiple hidden states and its application to prognostics of lithium-Ion batteries. Mechanical Systems and Signal Processing, 93: 531-544. \\
+[23] D. Wang, Y. Zhao\*, F. Yang, K. L. Tsui (2017). Nonlinear-Drifted Brownian motion with multiple hidden states and its application to prognostics of lithium-Ion batteries. Mechanical Systems and Signal Processing, 93: 531-544. 
 
 主要兼职
 ======
