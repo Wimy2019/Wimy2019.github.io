@@ -35,56 +35,56 @@ redirect_from:
 论著专利
 ======
 专著：
--------
+----
 [1] K. L. Tsui*, C. P. Chen, W. Jiang, F. Yang, C. Kan. Data Mining Methods and Applications, Springer Handbook of Engineering Statistics, 2nd ed.
 
 代表性论文(通讯作者*)：
--------
-[1] Z. Fei, F. Yang*, K. L. Tsui, L. Li, Z. Zhang (2021). Early prediction of battery lifetime via a machine learning based framework. Energy, 225, 120205. \
+----
+[1] Z. Fei, F. Yang\*, K. L. Tsui, L. Li, Z. Zhang (2021). Early prediction of battery lifetime via a machine learning based framework. Energy, 225, 120205. \
 
-[2] F. Xu, F. Yang*, Z. Fei, Z. Huang, K. L. Tsui (2020). Life prediction of lithium-ion batteries based on stacked denoising autoencoders. Reliability Engineering & System Safety, 107396. \
+[2] F. Xu, F. Yang\*, Z. Fei, Z. Huang, K. L. Tsui (2020). Life prediction of lithium-ion batteries based on stacked denoising autoencoders. Reliability Engineering & System Safety, 107396. \
 
-[3] F. Yang, D. Wang, F. Xu*, Z. Huang, K. L. Tsui (2020). Lifespan Prediction of Lithium-ion Batteries based on Various Extracted Features and Gradient Boosting Regression Tree Model. Journal of Power Sources, 476, 228654.\
+[3] F. Yang, D. Wang, F. Xu\*, Z. Huang, K. L. Tsui (2020). Lifespan Prediction of Lithium-ion Batteries based on Various Extracted Features and Gradient Boosting Regression Tree Model. Journal of Power Sources, 476, 228654.\
 
-[4] F. Yang, S. Zhang, W. Li, Q. Miao* (2020). State-of-charge estimation of lithium-ion batteries using LSTM and UKF. Energy, 117664. \
+[4] F. Yang, S. Zhang, W. Li, Q. Miao\* (2020). State-of-charge estimation of lithium-ion batteries using LSTM and UKF. Energy, 117664. \
 
-[5] G. Dong, F. Yang*, Z. Wei, J. Wei, K. L. Tsui (2020). Data-driven Battery Health Prognosis Using Adaptive Brownian Motion Model. IEEE Transactions on Industrial Informatics, 16(7), 4736-4746. \
+[5] G. Dong, F. Yang\*, Z. Wei, J. Wei, K. L. Tsui (2020). Data-driven Battery Health Prognosis Using Adaptive Brownian Motion Model. IEEE Transactions on Industrial Informatics, 16(7), 4736-4746. \
 
-[6] G. Dong, F. Yang*, K. L. Tsui, C. Zou (2020). Active Balancing of Lithium-Ion Batteries Using Graph Theory and A-Star Search Algorithm. IEEE Transactions on Industrial Informatics. \
+[6] G. Dong, F. Yang\*, K. L. Tsui, C. Zou (2020). Active Balancing of Lithium-Ion Batteries Using Graph Theory and A-Star Search Algorithm. IEEE Transactions on Industrial Informatics. \
 
-[7] T. Wang, F. Yang*, K. L. Tsui (2020). Real-time Visual Inspection of Railway Track Component Based on YOLO Series Models. Sensors, 15, 4325. \
+[7] T. Wang, F. Yang\*, K. L. Tsui (2020). Real-time Visual Inspection of Railway Track Component Based on YOLO Series Models. Sensors, 15, 4325. \
 
-[8] F. Yang, W. Li, C. Li, Q. Miao* (2019). State-of-charge estimation of lithium-ion batteries based on gated recurrent neural network. Energy, 88, 137-144. (ESI highly cited)\
+[8] F. Yang, W. Li, C. Li, Q. Miao\* (2019). State-of-charge estimation of lithium-ion batteries based on gated recurrent neural network. Energy, 88, 137-144. (ESI highly cited)\
 
-[9] F. Yang, X. Song*, G. Dong, K. L. Tsui (2019). A coulombic efficiency-based model for prognostics and health estimation of lithium-ion batteries. Energy, 171, 1173-1182. \
+[9] F. Yang, X. Song\*, G. Dong, K. L. Tsui (2019). A coulombic efficiency-based model for prognostics and health estimation of lithium-ion batteries. Energy, 171, 1173-1182. \
 
-[10] F. Yang*, D. Wang, Y. Zhao, K. L. Tsui, S. J. Bae (2018). A study of the relationship between coulombic efficiency and capacity degradation of commercial lithium-ion batteries. Energy, 145: 486-495. (ESI highly cited)\
+[10] F. Yang\*, D. Wang, Y. Zhao, K. L. Tsui, S. J. Bae (2018). A study of the relationship between coulombic efficiency and capacity degradation of commercial lithium-ion batteries. Energy, 145: 486-495. (ESI highly cited)\
 
-[11] F. Yang*, D. Wang, Y. Xing, K. L. Tsui (2017). Prognostics of Li(NiMnCo)O2-based 18650 lithium-ion batteries using a novel degradation model. Microelectronics Reliability, 70: 70-78. \
+[11] F. Yang\*, D. Wang, Y. Xing, K. L. Tsui (2017). Prognostics of Li(NiMnCo)O2-based 18650 lithium-ion batteries using a novel degradation model. Microelectronics Reliability, 70: 70-78. \
 
-[12] D. Wang, F. Yang*, Y. Zhao, K. L. Tsui (2017). Battery remaining useful life prediction at different discharge rates. Microelectronics Reliability, 78: 212-219. \
+[12] D. Wang, F. Yang\*, Y. Zhao, K. L. Tsui (2017). Battery remaining useful life prediction at different discharge rates. Microelectronics Reliability, 78: 212-219. \
 
-[13] D. Wang, F. Yang*, K. L. Tsui, Q. Zhou, S. J. Bae (2016). Remaining useful life prediction of lithium-ion batteries based on spherical cubature particle filter. IEEE Transactions on Instrumentation and Measurement, 65(6): 1282-1291. \
+[13] D. Wang, F. Yang\*, K. L. Tsui, Q. Zhou, S. J. Bae (2016). Remaining useful life prediction of lithium-ion batteries based on spherical cubature particle filter. IEEE Transactions on Instrumentation and Measurement, 65(6): 1282-1291. \
 
-[14] F. Yang*, Y. Xing, D. Wang, K. L. Tsui (2016). A comparative study of three model-based algorithms for estimating state-of-charge of lithium-ion batteries under a new combined dynamic loading profile. Applied Energy, 164: 387-399. (ESI highly cited)\
+[14] F. Yang\*, Y. Xing, D. Wang, K. L. Tsui (2016). A comparative study of three model-based algorithms for estimating state-of-charge of lithium-ion batteries under a new combined dynamic loading profile. Applied Energy, 164: 387-399. (ESI highly cited)\
 
-[15] C. P. Lin*, M.H. Ling, J. Cabrera, F. Yang, Y. Yu, K.L. Tsui (2021). Prognostics for lithium-ion batteries using a two-phase gamma degradation process model. Reliability Engineering & System Safety, 107797. \
+[15] C. P. Lin\*, M.H. Ling, J. Cabrera, F. Yang, Y. Yu, K.L. Tsui (2021). Prognostics for lithium-ion batteries using a two-phase gamma degradation process model. Reliability Engineering & System Safety, 107797. \
 
-[16] J. Kong, F. Yang, X. Zhang, E. Pan, Z. Peng, D. Wang* (2021). Voltage-temperature health feature extraction to improve prognostics and health management of lithium-ion batteries. Energy, 223, 120114. \
+[16] J. Kong, F. Yang, X. Zhang, E. Pan, Z. Peng, D. Wang\* (2021). Voltage-temperature health feature extraction to improve prognostics and health management of lithium-ion batteries. Energy, 223, 120114. \
 
-[17] L. K. Palayangoda, R. W. Butler, H. K. T. Ng*, F. Yang, K. L. Tsui (2021). Evaluation of mean-time-to-failure based on nonlinear degradation data with applications. IISE Transactions, 1-18. \
+[17] L. K. Palayangoda, R. W. Butler, H. K. T. Ng\*, F. Yang, K. L. Tsui (2021). Evaluation of mean-time-to-failure based on nonlinear degradation data with applications. IISE Transactions, 1-18. \
 
-[18] F. Xu, Z. Huang*, F. Yang, D. Wang, K. L. Tsui (2020). Constructing a health indicator for roller bearings by using a stacked auto-encoder with an exponential function to eliminate concussion. Applied Soft Computing, 89, 106119. \
+[18] F. Xu, Z. Huang\*, F. Yang, D. Wang, K. L. Tsui (2020). Constructing a health indicator for roller bearings by using a stacked auto-encoder with an exponential function to eliminate concussion. Applied Soft Computing, 89, 106119. \
 
-[19] C. P. Lin*, J. Cabrera, K.L. Tsui, F. Yang, M.H. Ling (2020). Battery state of health modeling and remaining useful life prediction through time series model. Applied Energy, 275, 115338. \
+[19] C. P. Lin\*, J. Cabrera, K.L. Tsui, F. Yang, M.H. Ling (2020). Battery state of health modeling and remaining useful life prediction through time series model. Applied Energy, 275, 115338. \
 
-[20] C. P. Lin*, J. Cabrera, Y. Yu, F. Yang, K.L. Tsui (2020). SOH estimation and SOC recalibration of lithium-ion battery with incremental capacity analysis & cubic smoothing spline. Journal of the Electrochemical Society, 167(9), 090537. \
+[20] C. P. Lin\*, J. Cabrera, Y. Yu, F. Yang, K.L. Tsui (2020). SOH estimation and SOC recalibration of lithium-ion battery with incremental capacity analysis & cubic smoothing spline. Journal of the Electrochemical Society, 167(9), 090537. \
 
-[21] J. Wang, J. Miao, J. Wang, F. Yang, K. Tsui, M. Qiang* (2020). Fault Diagnosis of Electrohydraulic Actuator Based on Multiple Source Signals: An Experimental Investigation. Neurocomputing, 417, 224-238. \
+[21] J. Wang, J. Miao, J. Wang, F. Yang, K. Tsui, M. Qiang\* (2020). Fault Diagnosis of Electrohydraulic Actuator Based on Multiple Source Signals: An Experimental Investigation. Neurocomputing, 417, 224-238. \
 
-[22] A. Yang, Y. Wang, F. Yang, D. Wang, Y. Zi*, K. L. Tsui, B. Zhang (2019). A comprehensive investigation of lithium-ion battery degradation performance at different discharge rates.  Journal of Power Sources, 443, 227108. \
+[22] A. Yang, Y. Wang, F. Yang, D. Wang, Y. Zi\*, K. L. Tsui, B. Zhang (2019). A comprehensive investigation of lithium-ion battery degradation performance at different discharge rates.  Journal of Power Sources, 443, 227108. \
 
-[23] D. Wang, Y. Zhao*, F. Yang, K. L. Tsui (2017). Nonlinear-Drifted Brownian motion with multiple hidden states and its application to prognostics of lithium-Ion batteries. Mechanical Systems and Signal Processing, 93: 531-544. \\
+[23] D. Wang, Y. Zhao\*, F. Yang, K. L. Tsui (2017). Nonlinear-Drifted Brownian motion with multiple hidden states and its application to prognostics of lithium-Ion batteries. Mechanical Systems and Signal Processing, 93: 531-544. \\
 
 主要兼职
 ======
