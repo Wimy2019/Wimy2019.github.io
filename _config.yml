@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
+  linkedin         :
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  sysulink         : "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
 
 
 # Reading Files
