@@ -116,6 +116,10 @@ author:
   youtube          :
   wikipedia        :
   sysulink         : "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
+  links:
+    - label: "中山大学"
+      icon:
+      url: "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
 
 
 # Reading Files
