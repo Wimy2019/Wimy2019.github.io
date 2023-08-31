@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "杨芳芳"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "杨芳芳"
 description              : &description "personal description"
