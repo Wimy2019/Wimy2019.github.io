@@ -84,11 +84,17 @@ author:
   avatar           : "profile.png"
   bio              : "一些个人简介描述"
   location         : "中国 深圳"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=bR3RVOUAAAAJ"
   email            : "yangff7@mail.sysu.edu.cn"
+  github           : "Wimy2019"
+  links:
+    - label: "中山大学"
+      icon: "fas fa-school"
+      url: "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
+      
+  employer         :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +102,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Wimy2019"
   google_plus      :
   keybase          :
   instagram        :
@@ -114,10 +119,6 @@ author:
   weibo            :
   xing             :
   youtube          :
-  links:
-    - label: "中山大学"
-      icon: "fas fa-school"
-      url: "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
   wikipedia        :
 
 
