@@ -40,6 +40,7 @@ en: &DEFAULT_EN
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
   sysulink                   : "中山大学"
+  uri                        : "HomePage"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
