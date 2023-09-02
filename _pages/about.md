@@ -1,12 +1,3 @@
----
-permalink: /
-title: 
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 简介
 ======
 杨芳芳，副教授，中山大学 智能工程学院。\\
