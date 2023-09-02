@@ -87,39 +87,10 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=bR3RVOUAAAAJ"
   email            : "yangff7@mail.sysu.edu.cn"
   github           :
-  links:
+  links            :
     - label: "HomePage"
       icon: "fas fa-school"
       url: "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
-      
-  employer         :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : # "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
