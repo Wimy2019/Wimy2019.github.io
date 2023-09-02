@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "杨芳芳"
   avatar           : "portrait.jpg"
-  bio              : "一些个人简介描述"
-  location         : "中国 深圳"
+  bio              : "中山大学 智能工程学院"
+  location         :
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=bR3RVOUAAAAJ"
   email            : "yangff7@mail.sysu.edu.cn"
-  github           : "Wimy2019"
+  github           :
   links:
-    - label: "中山大学"
+    - label: "HomePage"
       icon: "fas fa-school"
       url: "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
       
