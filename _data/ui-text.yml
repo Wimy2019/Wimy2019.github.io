@@ -41,6 +41,7 @@ en: &DEFAULT_EN
   loading_label              : "Loading..."
   sysulink                   : "中山大学"
   uri                        : "HomePage"
+  homepage                   : "HomePage"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
