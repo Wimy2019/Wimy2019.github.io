@@ -1,5 +1,13 @@
-简介
-======
+---
+permalink: /
+title: "简介"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 杨芳芳，副教授，中山大学 智能工程学院。\\
 2021.07 – 至今，  中山大学，智能工程学院，副教授\\
 2019.08 – 2021.07，香港城市大学，数据科学学院，副研究员\\
