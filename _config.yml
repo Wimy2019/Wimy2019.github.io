@@ -87,13 +87,6 @@ author:
   email            : "yangff7@mail.sysu.edu.cn"
   uri              : # "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
   homepage         : "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
-  links:
-    - label: "HomePage"
-      icon: "fas fa-school"
-      url: "https://ise.sysu.edu.cn/teacher/teacher02/1393058.htm"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
 
 
 # Reading Files
